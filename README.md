@@ -15,7 +15,7 @@
 <a href="https://github.com/methukabrozz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/methukabrozz?label=Followers&style=social"></a>
 <a href="https://github.com/methukabrozz/PHOENIX_MD-main"><img title="Stars" src="https://img.shields.io/github/stars/methukabrozz/PHOENIX_MD-main?&style=social"></a>
 <a href="https://github.com/methukabrozz/PHOENIX_MD-main/network/members"><img title="Fork" src="https://img.shields.io/github/forks/methukabrozz/PHOENIX_MD-main?style=social"></a>
-<a href="https://github.com/methukabrozz/PHOENIX_MD-main/watchers"><img title="Watching" src="https://img.shields.io/github/methukabrozz/PHOENIX_MD-main?label=Watching&style=social"></a>
+<a href="https://github.com/methukabrozz/PHOENIX_MD-main/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
  <h1 align="center">PHOENIX-𝗕𝗢𝗧</h1>
