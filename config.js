@@ -90,7 +90,17 @@ global.APIKeys = {
 
 
 // Bot Images 
-
+global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
+global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
+global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
+global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
+global.imagen5 = fs.readFileSync("./Assets/menus/img2.jpg")
+global.imagen6 = fs.readFileSync("./Assets/menus/img5.jpg")
+global.imagen7 = fs.readFileSync("./Assets/menus/img6.jpg")
+global.imagen8 = fs.readFileSync("./Assets/menus/img8.jpg")
+global.imagen9 = fs.readFileSync("./Assets/menus/img9.jpg")
+global.imagen10 = fs.readFileSync("./Assets/menus/img11.jpg")
+global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
 //💌------------------------------------------💌
 
 
