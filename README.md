@@ -12,10 +12,10 @@
 <p/>
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/methukabrozz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/methukabrozz?label=Followers&style=social"></a>
+<a href="https://github.com/methukabrozz/MR-PRINCE-BOT-main/methukabrozz/MR-PRINCE-BOT-main/"><img title="Stars" src="https://img.shields.io/github/stars/methukabrozz/MR-PRINCE-BOT-main?&style=social"></a>
+<a href="https://github.com/methukabrozz/MR-PRINCE-BOT-main/network/members"><img title="Fork" src="https://img.shields.io/github/forks/methukabrozz/MR-PRINCE-BOT-main?style=social"></a>
+<a href="https://github.com/methukabrozz/MR-PRINCE-BOT-main/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
  <h1 align="center">PHOENIX-𝗕𝗢𝗧</h1>
