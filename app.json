@@ -3,7 +3,7 @@
   "description": "A FAST WHATSAPP BOT CREATED BY DARK_GOD",
   "logo": "https://telegra.ph/file/4500cd69676f8105367ff.png",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT",
+  "repository": "https://github.com/methukabrozz/PHOENIX_MD-main",
   
   "stack": "container",
   "env": {
@@ -46,7 +46,7 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ-ᴘʀɪɴᴄᴇ-ᴍᴅ-ʙᴏᴛ"
+      "value": "PHOENIX_MD"
       },
     "DL_MSG": {
       "description": "Video downloader caption",
