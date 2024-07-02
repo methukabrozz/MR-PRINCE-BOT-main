@@ -1,7 +1,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://imgur.com/b9k1YZr">
+    <img alt="PRINCE" width="600" height="350" src="https://telegra.ph/file/2892fe5933d4c95146524.jpg">
   </a>
 </p>
 
