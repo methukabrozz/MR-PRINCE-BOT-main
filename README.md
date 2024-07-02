@@ -27,7 +27,8 @@
 
 
 <p align="left">
-<a href="https://gd-sdeploy.vercel.app/PRINCE-MD-WEB-main/projects/index.html"><img height= "70" title="Author" src="https:/ PHONIX 𝗕𝗢𝗧 𝗔𝗟𝗟 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧𝗦-032B44?style=for-the-badge&logo=vercel"></a>
+<a href="https://gd-sdeploy.vercel.app/PRINCE-MD-WEB-main/projects/index.html"><img height= "70" title="Author" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgd-sdeploy.vercel.app%2FPRINCE-MD-WEB-main%2Fprojects%2Findex.html&query=deploy
+"></a>
 <p/>
 
 
